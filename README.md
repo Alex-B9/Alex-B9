@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alex
 
-###A passionate developer junior from Belgium
+### A passionate developer junior from Belgium
 - 🌱 I’m currently learning at [BeCode](https://becode.org/)
 - 📫 How to reach me : [baesalex9@gmail.com](mailto:baesalex9@gmail.com)
 ***
