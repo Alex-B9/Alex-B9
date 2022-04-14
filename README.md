@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alex
-***
+
 ###A passionate developer junior from Belgium
 - 🌱 I’m currently learning at [BeCode](https://becode.org/)
 - 📫 How to reach me : [baesalex9@gmail.com](mailto:baesalex9@gmail.com)
@@ -7,7 +7,7 @@
 
 #### Connect with me :
 <a href=" https://www.linkedin.com/in/alex-b-dev/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-shadow-tal-revivo.png" width='50'></a>
-***
+
 <!--
 **Alex-B9/Alex-B9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
