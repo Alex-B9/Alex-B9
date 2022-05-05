@@ -6,6 +6,7 @@
 ***
 
 #### Connect with me :
+[Linkedin](https://www.linkedin.com/in/alex-b-dev/)
 <a href=" https://www.linkedin.com/in/alex-b-dev/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-linkedin-a-business-and-employment-oriented-service-mobile-app-logo-shadow-tal-revivo.png" width='30'></a>
 
 <!--
