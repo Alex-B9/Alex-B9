@@ -3,13 +3,13 @@
 ### A passionate developer junior from Belgium
 - 🌱 I’m currently learning at [BeCode](https://becode.org/)
 - 📫 How to reach me : [baesalex9@gmail.com](mailto:baesalex9@gmail.com)
-***
+
 
 #### Connect with me :
 
-[![Linkedin](https://www.oiml.org/en/ressources/logos/linkedin-icon-small.png/@@images/image.png)](https://www.linkedin.com/in/alex-b-dev/)
+[![Linkedin](https://snipboard.io/7djEKa.jpg)](https://www.linkedin.com/in/alex-b-dev/)
 
-
+***
 
 
 <!--
