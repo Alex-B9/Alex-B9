@@ -1,5 +1,5 @@
 # Hi 👋, I'm Alex
-![](https://komarev.com/ghpvc/?username=Alex-B9&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Alex-B9&style=plastic)
 
 ### A passionate developer junior from Belgium
 - 🌱 I’m currently learning at [BeCode](https://becode.org/)
