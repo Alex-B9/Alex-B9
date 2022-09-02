@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Alex-B9&style=plastic)
 
 ### A passionate developer junior from Belgium
+- 🔭 I’m currently on a internship at [I-Care}(https://www.icareweb.com/fr/)
 - 🌱 I’m currently learning at [BeCode](https://becode.org/)
 - 📫 How to reach me : [baesalex9@gmail.com](mailto:baesalex9@gmail.com)
 
