@@ -1,4 +1,6 @@
-![logo](standard.gif)
+<p align="center" width="80%">
+  <img src="standard.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 <img 
