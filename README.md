@@ -26,20 +26,20 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F
 <p><img class="stats"
         style="display: block; 
         margin-left: auto;
-        margin-right: auto;
-        text-align: center;" 
+        margin-right: auto;"
+        align="center" 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-b9&show_icons=true&theme=dark&title_color=285d28&locale=en&layout=compact" alt="alex-b9" /></p>
 
 <p>&nbsp;<img class="stats" 
             style="display: block; 
             margin-left: auto;
-            margin-right: auto;
-            text-align: center;"
+            margin-right: auto;"
+            align="center"
             src="https://github-readme-stats.vercel.app/api?username=alex-b9&show_icons=true&theme=dark&title_color=285d28&locale=en" alt="alex-b9" /></p>
 
 <p><img class="stats"
         style="display: block; 
         margin-left: auto;
-        margin-right: auto;
-        text-align: center;"
+        margin-right: auto;"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=alex-b9&theme=dark" alt="alex-b9" /></p>
