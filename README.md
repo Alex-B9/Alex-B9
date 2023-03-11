@@ -40,3 +40,9 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F
         margin-left: auto;
         margin-right: auto;"
         src="https://github-readme-streak-stats.herokuapp.com/?user=alex-b9&theme=dark" alt="alex-b9" /></p>
+        
+<p align="center"><img class="stats"
+        style="display: block; 
+        margin-left: auto;
+        margin-right: auto;"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=alexb9&theme=dark&layout=compact" alt="alex-b9" /></p>
