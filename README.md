@@ -1,5 +1,5 @@
 <p align="center" width="80%">
-  <img src="https://i.ibb.co/N6MtV1K/standard.gif" alt="MasterHead">
+  <img src="https://i.ibb.co/N6MtV1K/standard.gif" alt="MasterHead" align="center">
 </p>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
