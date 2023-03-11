@@ -1,13 +1,3 @@
-<style>
-.languages {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-}
-.stats {
-    color: #8BC34A;
-}
-</style>
 <p align="center" width="80%">
   <img src="https://i.ibb.co/N6MtV1K/standard.gif" alt="MasterHead">
 </p>
