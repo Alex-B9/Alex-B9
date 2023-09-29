@@ -2,7 +2,7 @@
   <img src="standard.gif" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate developer from Belgium</h3>
+<h3 align="center">A passionate developer/pentester from Belgium</h3>
 <img 
 align="right"
 alt="gif" 
@@ -11,9 +11,9 @@ src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F
 
 - 🌱 I’m currently learning **network**
 
-- 💬 Ask me about **nodejs, react, python**
+- 💬 Ask me about **programmation(python, nodejs) and pentesting**
 
-- 📫 How to reach me **baesalex9@gmail.com**
+- 📫 How to reach me **baesalex9@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p>
