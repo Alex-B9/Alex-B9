@@ -9,7 +9,7 @@ alt="gif"
 width="300"
 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe4%2F26%2F70%2Fe426702edf874b181aced1e2fa5c6cde.gif&f=1&nofb=1&ipt=7eccd98889b4d279e1b64ade45b2cce8a9cb99feb4fc66d48fdb0582c0d5ec44&ipo=images">
 
-- 🌱 I’m currently learning **network**
+- 🌱 I’m currently learning **pentesting**
 
 - 💬 Ask me about **programmation(python, nodejs) and pentesting**
 
